@@ -1,0 +1,2 @@
+:root{--main-front: "Open Sans", sans-serif;--secondary-front: "Montserrat", sans-serif;--text-color: #000000;--white-color: #ffffff;--main-background: #ffffff;--second-background: #rgba(44, 30, 110, 0.56)}body{font-family:var(--main-front);color:var(--text-color)}h1,h2,h3,h4,h5,h6,p{margin:0}ul,ol{margin:0;padding:0}img{display:block}.link{text-decoration:none}
+/*# sourceMappingURL=maine.min.css.map */
