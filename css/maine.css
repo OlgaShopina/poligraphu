@@ -7,6 +7,18 @@
   --second-background: #rgba(44, 30, 110, 0.56);
 }
 
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+
+.header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 body {
   font-family: var(--main-front);
   color: var(--text-color);
@@ -34,5 +46,15 @@ img {
 
 .link {
   text-decoration: none;
+}
+
+.list {
+  list-style: none;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 /*# sourceMappingURL=maine.css.map */
