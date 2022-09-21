@@ -57,4 +57,10 @@ img {
   align-items: center;
   justify-content: space-between;
 }
+
+.navigation_list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 /*# sourceMappingURL=maine.css.map */
